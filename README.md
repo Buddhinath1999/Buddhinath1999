@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://nwaresoft.com/">「 Google Me 」</a>
+    <a href="https://buddhinath.com">「 Google Me 」</a>
     <br>
     「 I am a Software Developer at Nwaresoft Private Limited, India </b> 」
     <br>
