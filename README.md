@@ -92,7 +92,7 @@
 <p align="center">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?      
-      user=Buddhinath1999&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Buddhinath GitHub Streak" /></a>
+      user=Buddhinath1999&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /></a>
   </a>
 </p>
 
