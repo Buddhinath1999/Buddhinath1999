@@ -24,7 +24,7 @@
   <samp>
     <a href="https://nwaresoft.com/">「 Google Me 」</a>
     <br>
-    「 I am a Software Developer At Nwaresoft Private Limited, India </b> 」
+    「 I am a Software Developer at Nwaresoft Private Limited, India </b> 」
     <br>
     <br>
   </samp>
